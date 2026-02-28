@@ -1,0 +1,1 @@
+# core-training-loop-of-word2vec
